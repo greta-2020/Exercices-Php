@@ -1,0 +1,1 @@
+<p>Grâce à la fonction rand(), remplir un tableau et vérifier si le chiffre 13 est présent et afficher un message en conséquence.</p>
